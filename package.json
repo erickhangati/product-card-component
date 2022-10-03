@@ -1,7 +1,7 @@
 {
   "name": "product-preview-card",
   "version": "1.0.0",
-  "description": "Product preview card component Frontend Mentor coding challenge",
+  "description": "Product card component Frontend Mentor coding challenge",
   "main": "index.js",
   "scripts": {
     "start": "node-sass sass/main.scss css/style.css -w"
