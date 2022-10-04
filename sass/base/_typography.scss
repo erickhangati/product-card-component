@@ -1,7 +1,11 @@
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: var(--primary-font);
   font-size: 1.4rem;
   line-height: 150%;
+
+  @include respond(phone) {
+    font-size: 1.2rem;
+  }
 }
 
 h1,
@@ -10,6 +14,6 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Fraunces", serif;
-  line-height: 125%;
+  font-family: var(--secondary-font);
+  line-height: 100%;
 }

@@ -12,4 +12,15 @@ html {
 
 body {
   box-sizing: border-box;
+  height: 100vh;
+  background-color: var(--cream);
+  padding: 4rem;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @include respond(phone) {
+    padding: 2rem;
+  }
 }
