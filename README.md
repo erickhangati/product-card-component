@@ -10,3 +10,7 @@ This is a challenge from Frontend Mentor. We we supposed to build a product card
 
 1. HTML
 2. CSS (SASS)
+
+## Live link to the QR code component
+
+[https://eric-product-card.netlify.app/](https://eric-product-card.netlify.app/ "Frontend Mentor - Product card component")
