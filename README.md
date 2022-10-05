@@ -9,7 +9,7 @@ This is a challenge from Frontend Mentor. We we supposed to build a product card
 ## Technologies Used
 
 1. HTML
-2. CSS (SASS)
+2. CSS (Flexbox, SASS)
 
 ## Live link to the QR code component
 
